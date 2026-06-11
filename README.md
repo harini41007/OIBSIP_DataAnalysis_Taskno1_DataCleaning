@@ -31,7 +31,8 @@ This project aims to identify and address these issues by performing tasks such 
  
     ### Outcome
     + Below is the outcome of dataset after data cleaning.
-      <img width="907"height="141"alt="image"src="https://github.com/user-attachments/assets/a0aed45b-df80-499b-a68c04fb4dfb"/>
+      <img width="1718" height="481" alt="image" src="https://github.com/user-attachments/assets/14903a3b-a8f1-4036-812a-2d3956e830de" />
+
       + The data cleaning process significantly improved the quality and reliablity of the dataset
       + By handling missing values ,removing duplicates,and treating outliers, the dataset became more consistent and suitable for analysis
       + After cleaning,the dataset provided better insights into property listings,including pricing trends,room type distribution ,and location-based patterns
