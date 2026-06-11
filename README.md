@@ -3,13 +3,13 @@
 The primary objective of this project is to improve the quality ,accuracy,and reliability of the dataset through a systematic data cleaning process.Real-world datasets often contain missing values ,duplicate records,inconsistent formats,incorrect entries,and other data quality issues that can negatively impact analysis and decison making 
 This project aims to identify and address these issues by performing tasks such as handling missing data ,removing duplicate records,correcting inconsistencies,standardizing data formats,and validating data integrity.By cleaning and preprocessing the dataset, the project ensures that the data is accurate,consistent,and ready for furthur analysis,visualization,reporting,or machine learning applications
 
-###Dataset Overview
+### Dataset Overview
 + The dataset originally sourced from Kaggle.it contains columns such as id,name,including host details,geographical location,pricing,room types,availability,and customer reviews.
 + The dataset is not completely clean and hence significant data cleaning is required.For example,missing values in columns such as last_reviewand reviews_per_month need to be handled appropritely
 + Outliers in features like price are identified and treated using statistical methods to ensure realistic values.Inconsistent or irrevelant data entries are also removed to improve data quality.
 + The cleaned dataset is then prepared for furthur analysis and modeling.The processed data can be used to analyze pricing trends,room distribution,host activity,and availability patterns across different locations
 
-###Tools and Technologies 
+### Tools and Technologies 
 + Google Colab-Cloud-based environment for writing and executing Python code
 + Python-Programming language used for data cleaning,and analysis.
 + Pandas-Used for data manipulation,cleaning,and preprocessing.
@@ -18,7 +18,7 @@ This project aims to identify and address these issues by performing tasks such 
 + Matplotlib-Used for data visualization and plotting charts.
 + Seaborn-Used for creating advanced statistical visualizations.
 
-  ###Steps in Data Cleaning
+  ### Steps in Data Cleaning
   + Upload Dataset
   + Import Libraries
   + Load Dataset
