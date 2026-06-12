@@ -1,4 +1,4 @@
-# Cleaning Data &nbsp;nbsp;
+# Cleaning Data&nbsp;&nbsp;
 ### Objective 
 The primary objective of this project is to improve the quality ,accuracy,and reliability of the dataset through a systematic data cleaning process.Real-world datasets often contain missing values ,duplicate records,inconsistent formats,incorrect entries,and other data quality issues that can negatively impact analysis and decison making 
 This project aims to identify and address these issues by performing tasks such as handling missing data ,removing duplicate records,correcting inconsistencies,standardizing data formats,and validating data integrity.By cleaning and preprocessing the dataset, the project ensures that the data is accurate,consistent,and ready for furthur analysis,visualization,reporting,or machine learning applications
