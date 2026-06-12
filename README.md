@@ -18,16 +18,41 @@ This project aims to identify and address these issues by performing tasks such 
 + Matplotlib-Used for data visualization and plotting charts.
 + Seaborn-Used for creating advanced statistical visualizations.
 
-  ### Steps in Data Cleaning
-  + Upload Dataset
-  + Import Libraries
-  + Load Dataset
-  + Get Data Basic Information
-  + Identify missing values
-  + Handling missing values
-  + Handling Duplicates
-  + Standardization
-  + Outliers Detection
+ ### Steps in Data Cleaning
+
+1.Import Libraries
+
+   + Pandas -> Data handling
+   + NumPy -> Numerical computations
+     
+2.Load Dataset
+
+ + Loaded dataset using 'pd.read_csv()'
+ + Displayed initial data
+
+3.Data inspection
+
+ + df.info() -> shows columns,data types,missing values
+ + df.describe() -> statistical summary of numerical data
+
+4.Data Cleaning 
+
+ + Removed duplicate rows
+ + Identify and handling missing values
+
+5. Standardization
+ + Remove spaces
+ + Convert to lowercase
+
+6. Outliers Detection
+ + Identify extreme values using IDR method for each numerical column
+
+7.Remove Outliers
+ + Define a function to filter out extreme values
+ + Apply it to all numerical columns
+
+8. Visualize Outliers
+ + Use box plots to visually confirm outlier removal
  
     ### Outcome
     + Below is the outcome of dataset after data cleaning.
