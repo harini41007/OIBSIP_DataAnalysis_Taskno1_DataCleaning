@@ -40,18 +40,18 @@ This project aims to identify and address these issues by performing tasks such 
  + Removed duplicate rows
  + Identify and handling missing values
 
-5. Standardization
+5.Standardization
  + Remove spaces
  + Convert to lowercase
 
-6. Outliers Detection
+6.Outliers Detection
  + Identify extreme values using IDR method for each numerical column
 
 7.Remove Outliers
  + Define a function to filter out extreme values
  + Apply it to all numerical columns
 
-8. Visualize Outliers
+8.Visualize Outliers
  + Use box plots to visually confirm outlier removal
  
     ### Outcome
